@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shilpa224
+  👋 Hi, I’m Shilpa😊
 - 👀 I’m interested in font-end development.
 - 🌱 I’m currently learning javaScript.
 - 💞️ I’m looking to collaborate on website development.
